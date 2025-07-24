@@ -27,7 +27,6 @@ android {
     compileSdkVersion 28
 
     defaultConfig {
-        applicationId "com.kierjohnsagre.uni_links"
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
