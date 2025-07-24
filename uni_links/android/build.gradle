@@ -22,9 +22,9 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 28
-
     namespace 'com.kierjohnsagre.uni_links'
+    
+    compileSdkVersion 28
 
     defaultConfig {
         minSdkVersion 16
