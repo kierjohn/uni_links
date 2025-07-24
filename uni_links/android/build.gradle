@@ -23,10 +23,11 @@ apply plugin: 'com.android.library'
 
 android {
     namespace 'com.kierjohnsagre.uni_links'
-    
+
     compileSdkVersion 28
 
     defaultConfig {
+        applicationId "com.kierjohnsagre.uni_links"
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
